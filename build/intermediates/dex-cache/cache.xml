@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-7631029f5e8f8b038c4bd73c00a24b63b7af8ccb.jar" />
+    </item>
+    <item
+        jar="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/pre-dexed/debug/classes-020d95b9196f49804125ea1f80f4c8800cdb2434.jar" />
+    </item>
+    <item
+        jar="/Users/Paco/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-e8b5806fecc6e86d085a782b2853d739825032c4.jar" />
+    </item>
+    <item
+        jar="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/pre-dexed/debug/classes-f53065cef1066d0448caa5ffb120ad0085cff410.jar" />
+    </item>
+    <item
+        jar="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/pre-dexed/debug/classes-c523370b127b0526fff27dbb614d6b4a5f316178.jar" />
+    </item>
+    <item
+        jar="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Paco/Desktop/Form_Calendar/app/build/intermediates/pre-dexed/debug/classes-56717b8905150ed81fc09aac95fa965089fbe886.jar" />
+    </item>
+
+</items>
